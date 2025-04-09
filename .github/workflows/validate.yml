@@ -1,0 +1,42 @@
+name: Validate Playbooks
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: npm install -g gray-matter ajv-cli
+        
+      - name: Extract and validate frontmatter
+        run: |
+          # Create a temporary directory for frontmatter JSON files
+          mkdir -p tmp
+          
+          # Extract frontmatter from all markdown files
+          for file in *.md; do
+            if [ "$file" != "README.md" ]; then
+              echo "Validating $file..."
+              # Extract frontmatter and convert to JSON
+              node -e "
+                const matter = require('gray-matter');
+                const fs = require('fs');
+                const file = matter.read('$file');
+                fs.writeFileSync('tmp/${file%.md}.json', JSON.stringify(file.data, null, 2));
+              "
+              # Validate against schema
+              ajv validate -s schema.json -d "tmp/${file%.md}.json"
+            fi
+          done 
