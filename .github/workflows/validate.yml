@@ -17,8 +17,19 @@ jobs:
         with:
           node-version: '18'
           
+      - name: Create package.json
+        run: |
+          echo '{
+            "name": "playbooks-validator",
+            "private": true,
+            "dependencies": {
+              "gray-matter": "^4.0.3",
+              "ajv-cli": "^5.0.0"
+            }
+          }' > package.json
+          
       - name: Install dependencies
-        run: npm install -g gray-matter ajv-cli
+        run: npm install
         
       - name: Extract and validate frontmatter
         run: |
@@ -37,6 +48,6 @@ jobs:
                 fs.writeFileSync('tmp/${file%.md}.json', JSON.stringify(file.data, null, 2));
               "
               # Validate against schema
-              ajv validate -s schema.json -d "tmp/${file%.md}.json"
+              npx ajv validate -s schema.json -d "tmp/${file%.md}.json"
             fi
           done 
