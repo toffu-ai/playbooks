@@ -19,7 +19,7 @@ author:
   pic_url: https://linkedin.com/in/tom-shelly/image
   profile_url: https://linkedin.com/in/tom-shelly
 tools:
-  - LinkedIn Ads
+  - LinkedIn
   - Google Sheets
 ---
 

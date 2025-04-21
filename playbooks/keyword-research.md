@@ -6,21 +6,14 @@ tags:
   - keywords
   - research
 author:
-  name: SEO Specialist
-  pic_url: https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=100&h=100&fit=crop&crop=face
-  profile_url: https://linkedin.com/in/seo-specialist
+  name: Alex Kim
+  pic_url: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face
 tools:
-  - Google Search
-  - Ahrefs
+  - Google Search Console
+  - Google Analytics
+  - Google Ads
 ---
-# Keyword Research Strategy
-
-### Research Process
-1. Find hot topics in Reddit
+1. Find trending topics in Reddit
 2. Use Google Keyword Planner to find keywords and search volume
-3. Use Ahrefs to find keywords difficulty
-
-### Deliverables
-Create a Google Sheet with:
-- Keywords and their search volume, difficulty
-- Content ideas based on findings
+3. Fetch keyword difficulty
+4. Create a Google Sheet with keywords, search volume, difficulty, and content ideas
