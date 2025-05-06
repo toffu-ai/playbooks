@@ -1,6 +1,6 @@
 ---
 id: hijack-trends
-title: Hijack Trends Across Platforms
+title: Hijack Trends for Content
 tags:
   - trends
   - social media
