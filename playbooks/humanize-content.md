@@ -10,6 +10,7 @@ author:
   name: Toffu
   pic_url: /toffu-logo.png
   profile_url: https://toffu.ai
+tools: []
 ---
 Ask me to provide you with content.
 
