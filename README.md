@@ -16,7 +16,7 @@ tags:
   - social media
 author:
   name: Tom Shelly
-  pic_url: https://linkedin.com/in/tom-shelly/image
+  pic_url: /tom.jpeg
   profile_url: https://linkedin.com/in/tom-shelly
 tools:
   - LinkedIn
