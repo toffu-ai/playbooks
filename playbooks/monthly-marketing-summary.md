@@ -1,6 +1,6 @@
 ---
 id: weekly-competitor-ads-monitor
-title: Weekly Competitor Google Ads Monitoring & Email Report
+title: Weekly Competitor Google Ads Report
 tags:
   - google-ads
   - competitor-analysis
