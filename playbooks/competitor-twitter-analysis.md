@@ -1,6 +1,6 @@
 ---
 id: competitor-twitter-analysis
-title: Analyze Competitor's Twitter/X Strategy
+title: Twitter Analysis
 tags:
   - twitter
   - social media

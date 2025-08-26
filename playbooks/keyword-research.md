@@ -1,6 +1,6 @@
 ---
 id: keyword-research
-title: Research High-Value Keywords
+title: Keyword Research
 tags:
   - seo
   - keywords

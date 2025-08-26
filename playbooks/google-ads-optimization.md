@@ -1,6 +1,6 @@
 ---
 id: google-ads-optimization
-title: Analyze and Optimize Google Ads Campaigns
+title: Google Ads Optimization
 tags:
   - google ads
   - search ads

@@ -1,6 +1,6 @@
 ---
 id: traffic-analysis
-title: Analyze Website Traffic and User Behavior
+title: Traffic Analysis
 tags:
   - analytics
   - traffic

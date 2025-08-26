@@ -1,6 +1,6 @@
 ---
 id: website-design-best-practices
-title: Website Best Practices for Conversion
+title: Website Best Practices
 tags:
   - website design
   - ux/ui

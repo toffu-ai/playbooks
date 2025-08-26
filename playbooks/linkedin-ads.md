@@ -1,6 +1,6 @@
 ---
 id: linkedin-ads
-title: Create competitor-based LinkedIn Ads
+title: LinkedIn Ads
 tags:
   - linkedin
   - advertising

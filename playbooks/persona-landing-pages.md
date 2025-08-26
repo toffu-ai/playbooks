@@ -1,6 +1,6 @@
 ---
 id: persona-landing-pages
-title: Create Persona-Based Landing Pages
+title: Persona Landing Pages
 tags:
   - landing pages
   - conversion

@@ -1,6 +1,6 @@
 ---
 id: messaging-optimization
-title: Messaging Optimization for Target Audiences
+title: Messaging Optimization
 tags:
   - messaging
   - copywriting

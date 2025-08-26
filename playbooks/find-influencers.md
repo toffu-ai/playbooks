@@ -1,6 +1,6 @@
 ---
 id: find-influencers
-title: Find and Connect with Industry Influencers
+title: Find Influencers
 tags:
   - influencer marketing
   - outreach

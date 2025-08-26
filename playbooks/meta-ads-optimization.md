@@ -1,6 +1,6 @@
 ---
 id: meta-ads-optimization
-title: Analyze and Optimize Meta Ads Campaigns
+title: Meta Ads Optimization
 tags:
   - meta ads
   - facebook ads

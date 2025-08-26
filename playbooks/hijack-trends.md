@@ -1,6 +1,6 @@
 ---
 id: hijack-trends
-title: Hijack Trends for Content
+title: Trend Hijacking
 tags:
   - trends
   - social media

@@ -22,3 +22,4 @@ tools:
 2. Create Google Sheets to log competitor ad data, creative variations, and campaign timing
 3. Analyze trends and identify opportunities in competitor strategies and add them to the sheet
 4. Send me the report via email
+5. Schedule a weekly task to send the report via email

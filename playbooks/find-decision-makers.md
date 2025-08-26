@@ -1,6 +1,6 @@
 ---
 id: find-decision-makers
-title: Reach out to ICP leads
+title: Find Decision Makers
 tags:
   - linkedin
   - sales
