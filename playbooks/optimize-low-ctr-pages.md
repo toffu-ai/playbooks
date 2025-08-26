@@ -3,10 +3,9 @@ id: optimize-low-ctr-pages
 title: Optimize Low CTR Pages
 tags:
   - seo
-  - ctr
-  - optimization
-  - titles
-  - meta descriptions
+  - content
+  - impressions
+  - opportunities
   - google search console
 author:
   name: Toffu
@@ -16,4 +15,10 @@ tools:
   - Google Search Console
 ---
 
-Highlight pages with high impressions but low CTR (< 3%) as candidates for title and meta description optimization
+1. Access Google Search Console Performance report and filter for queries with impressions but zero clicks
+2. Analyze the intent of each query
+3. Create a report that will show for each query:
+    - The query
+    - The intent
+    - The current meta title and description
+    - The suggested meta title and description
