@@ -1,6 +1,7 @@
 ---
 id: hijack-trends
 title: Trend Hijacking
+description: Spot trending topics and create social posts that ride the wave
 tags:
   - trends
   - social media

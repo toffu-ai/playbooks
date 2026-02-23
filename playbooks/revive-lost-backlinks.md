@@ -1,6 +1,7 @@
 ---
 id: revive-lost-backlinks
 title: Revive Lost Backlinks
+description: Find backlinks you lost and build a plan to get them back
 tags:
   - seo
   - backlinks

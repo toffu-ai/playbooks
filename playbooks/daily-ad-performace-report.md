@@ -1,6 +1,7 @@
 ---
 id: daily-ad-performace-report
 title: Daily Ad Performance Report
+description: Get a daily email with ad spend, conversions, and key actions needed
 tags:
   - ad performance
   - reporting

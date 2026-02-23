@@ -1,6 +1,7 @@
 ---
 id: find-influencers
 title: Find Influencers
+description: Find relevant influencers and send them personalized outreach emails
 tags:
   - influencer marketing
   - outreach

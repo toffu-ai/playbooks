@@ -1,6 +1,7 @@
 ---
 id: build-remarketing-audiences
 title: Build Remarketing Audiences from GA4
+description: Build retargeting audiences from visitors who almost converted
 tags:
   - ga4
   - audiences

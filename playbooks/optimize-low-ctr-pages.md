@@ -1,6 +1,7 @@
 ---
 id: optimize-low-ctr-pages
 title: Optimize Low CTR Pages
+description: Fix pages getting impressions but no clicks with better titles and descriptions
 tags:
   - seo
   - content

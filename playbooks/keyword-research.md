@@ -1,6 +1,7 @@
 ---
 id: keyword-research
 title: Keyword Research
+description: Discover trending keywords with search volume and difficulty scores
 tags:
   - seo
   - keywords

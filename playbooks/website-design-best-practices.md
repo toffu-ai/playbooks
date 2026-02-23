@@ -1,6 +1,7 @@
 ---
 id: website-design-best-practices
 title: Website Best Practices
+description: Audit your site for UX issues and get conversion-focused design tips
 tags:
   - website design
   - ux/ui

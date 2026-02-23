@@ -1,6 +1,7 @@
 ---
 id: google-ads-optimization
 title: Google Ads Optimization
+description: Analyze your Google Ads performance and apply data-driven improvements
 tags:
   - google ads
   - search ads

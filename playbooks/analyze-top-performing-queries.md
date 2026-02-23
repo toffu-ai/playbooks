@@ -1,6 +1,7 @@
 ---
 id: analyze-top-performing-queries
 title: Analyze Top Performing Queries
+description: Find your best search queries by clicks, impressions, and engagement
 tags:
   - seo
   - performance

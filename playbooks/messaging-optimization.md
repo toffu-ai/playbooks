@@ -1,6 +1,7 @@
 ---
 id: messaging-optimization
 title: Messaging Optimization
+description: Improve your copy using real customer language and search data
 tags:
   - messaging
   - copywriting

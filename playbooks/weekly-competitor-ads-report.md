@@ -1,6 +1,7 @@
 ---
 id: weekly-competitor-ads-monitor
 title: Weekly Competitor Google Ads Report
+description: Get a weekly report on what your competitors are running in Google Ads
 tags:
   - google-ads
   - competitor-analysis

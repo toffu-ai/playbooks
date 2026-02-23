@@ -1,6 +1,7 @@
 ---
 id: monitor-content-indexing
 title: Monitor Content Indexing
+description: Check which pages Google has indexed and request indexing for the rest
 tags:
   - seo
   - content

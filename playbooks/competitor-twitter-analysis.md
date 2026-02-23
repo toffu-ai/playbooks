@@ -1,6 +1,7 @@
 ---
 id: competitor-twitter-analysis
 title: Twitter Analysis
+description: Track your competitors' top tweets and steal their best content patterns
 tags:
   - twitter
   - social media

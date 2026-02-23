@@ -1,6 +1,7 @@
 ---
 id: blog-to-signup-tracking
 title: Track Blog → Signup Conversions
+description: Find which blog posts drive signups and how to improve the rest
 tags:
   - ga4
   - content

@@ -1,6 +1,7 @@
 ---
 id: traffic-analysis
 title: Traffic Analysis
+description: Analyze your traffic trends, user behavior, and conversion rates
 tags:
   - analytics
   - traffic

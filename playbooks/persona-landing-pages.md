@@ -1,6 +1,7 @@
 ---
 id: persona-landing-pages
 title: Persona Landing Pages
+description: Create landing pages tailored to each of your buyer personas
 tags:
   - landing pages
   - conversion

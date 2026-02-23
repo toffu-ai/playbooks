@@ -1,6 +1,7 @@
 ---
 id: create-comparison-blog-post
 title: Create Comparison Blog Post
+description: Write a product comparison blog post with real reviews and SEO keywords
 tags:
   - blog
   - SEO

@@ -1,6 +1,7 @@
 ---
 id: linkedin-ads
 title: LinkedIn Ads
+description: Research competitor LinkedIn ads and create your own inspired by them
 tags:
   - linkedin
   - advertising

@@ -1,6 +1,7 @@
 ---
 id: analyze-channel-roi
 title: Analyze Channel ROI
+description: Compare ROI across all your marketing channels and reallocate budget
 tags:
   - ga4
   - attribution

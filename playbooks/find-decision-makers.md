@@ -1,6 +1,7 @@
 ---
 id: find-decision-makers
 title: Find Decision Makers
+description: Find your ideal prospects and draft personalized outreach emails
 tags:
   - linkedin
   - sales

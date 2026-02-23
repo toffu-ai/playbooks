@@ -1,6 +1,7 @@
 ---
 id: retention-cohort-analysis
 title: Retention Cohort Analysis
+description: See which channels bring customers that actually stick around
 tags:
   - ga4
   - retention

@@ -1,6 +1,7 @@
 ---
 id: striking-distance-keywords
 title: Striking Distance Keywords
+description: Find keywords ranking on page 2-3 that are close to reaching page 1
 tags:
   - seo
   - keywords

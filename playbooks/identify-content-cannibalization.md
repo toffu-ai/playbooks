@@ -1,6 +1,7 @@
 ---
 id: identify-content-cannibalization
 title: Identify Content Cannibalization
+description: Find pages competing against each other for the same keywords
 tags:
   - seo
   - content
