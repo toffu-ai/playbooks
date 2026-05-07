@@ -34,9 +34,7 @@ Build a stable-URL HTML dashboard that shows every active ad alongside the actua
    - Hierarchy: Campaign → Ad set → Ad cards. Each campaign and ad set shows its rolled-up spend, results, and CPA
    - Each ad card embeds the Instagram preview as an `<iframe>` (320×440), shows the ad name, CPA badge, spend, results, CTR, CPC. For Facebook-only ads with no IG mirror, fall back to the creative's `image_url` or `thumbnail_url`. If neither exists, show a placeholder
    - Sort ads inside each ad set by CPA descending so the worst spenders surface first
-6. Color-code each ad card by CPA against my targets: green below the "good" threshold, amber between good and ceiling, red above the ceiling, gray for ads with no results yet
+6. Color-code each ad card by CPA: green below the "good" threshold, amber between good and ceiling, red above the ceiling, gray for ads with no results yet. If I haven't told you my targets, use the last 30 days of this account as the baseline. Median CPA as "good", p90 as "ceiling"
 7. Publish via `generate_html_report` and pass the same `existing_report_id` on every run so the dashboard URL stays stable and the most recent version always lives at the same link
 8. Email the recipient list a short summary (totals + CPA) with a link to the dashboard
 9. Schedule the run daily at my preferred time in my account timezone (default 8 AM)
-
-Parameters to ask me for on first run: ad account id, primary conversion action, CPA "good" and "ceiling" thresholds, recipient emails, currency symbol, account timezone.
