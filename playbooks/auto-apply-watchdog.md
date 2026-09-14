@@ -1,7 +1,7 @@
 ---
 id: auto-apply-watchdog
 title: Google Auto-Apply Watchdog
-description: Get alerts when Google silently auto-applies changes to your account
+description: "Google quietly auto-applies its own recommendations to your account. Catch every one of them in the change history before it wrecks a campaign."
 tags:
   - google ads
   - change history

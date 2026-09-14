@@ -1,7 +1,7 @@
 ---
 id: optimize-low-ctr-pages
 title: Optimize Low CTR Pages
-description: Fix pages getting impressions but no clicks with better titles and descriptions
+description: "Find the Search Console queries earning impressions and zero clicks, read the intent behind each, and rewrite the titles and descriptions to match."
 tags:
   - seo
   - content

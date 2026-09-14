@@ -1,7 +1,7 @@
 ---
 id: find-reddit-blog-topics
 title: Find Blog Topics from Reddit
-description: Mine Reddit discussions to discover content your audience is already asking for
+description: "Mine the highest-engagement posts in your audience's subreddits for recurring questions and pain points, grouped into content themes ranked by demand."
 tags:
   - reddit
   - content

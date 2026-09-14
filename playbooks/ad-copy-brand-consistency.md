@@ -1,7 +1,7 @@
 ---
 id: ad-copy-brand-consistency
 title: Ad Copy Brand Consistency Check
-description: Make sure brand names and messaging are consistent across every ad
+description: "Audit every active ad for brand name, product name and messaging drift, then get a list of the exact ads that need correcting."
 tags:
   - google ads
   - ad copy

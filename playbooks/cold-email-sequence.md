@@ -1,7 +1,7 @@
 ---
 id: cold-email-sequence
 title: Cold Email Sequence Builder
-description: Build a targeted multi-touch cold email sequence for a specific prospect segment
+description: "Build a three-email cold sequence for one specific segment, with real personalization hooks researched from companies that match your ICP."
 tags:
   - outreach
   - email

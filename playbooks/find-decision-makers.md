@@ -1,7 +1,7 @@
 ---
 id: find-decision-makers
 title: Find Decision Makers
-description: Find your ideal prospects and draft personalized outreach emails
+description: "Find ten decision makers who match your ICP, with the research behind each one, and a personalized outreach email drafted for every single person."
 tags:
   - linkedin
   - sales

@@ -1,7 +1,7 @@
 ---
 id: agency-accountability-report
 title: Agency Accountability Report
-description: See exactly what your agency changed and whether it moved the needle
+description: "See every change your agency made in the last seven days, who made it, what the old value was, and whether performance actually improved."
 tags:
   - google ads
   - change history

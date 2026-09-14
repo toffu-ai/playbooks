@@ -1,7 +1,7 @@
 ---
 id: website-change-impact-report
 title: Website Change Impact Report
-description: Compare your site week-over-week and surface which changes moved conversion metrics
+description: "Compare this week's GA4 sessions, conversions and bounce rate against last week, and tie the biggest page-level swings to rankings and known site changes."
 tags:
   - cro
   - analytics

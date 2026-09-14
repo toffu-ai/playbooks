@@ -1,7 +1,7 @@
 ---
 id: keyword-research
 title: Keyword Research
-description: Discover trending keywords with search volume and difficulty scores
+description: "Find trending topics on Reddit, pull search volume and difficulty for each, and land it all in a Google Sheet with a content idea per keyword."
 tags:
   - seo
   - keywords

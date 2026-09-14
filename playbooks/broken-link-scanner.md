@@ -1,7 +1,7 @@
 ---
 id: broken-link-scanner
 title: Broken Link Scanner
-description: Find every broken internal link on your site and get a fix list before Google notices
+description: "Crawl every page in your sitemap, find the internal links returning 4xx and 5xx, and rank the fixes by how much traffic each broken page gets."
 tags:
   - seo
   - website design

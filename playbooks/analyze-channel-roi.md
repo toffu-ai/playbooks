@@ -1,7 +1,7 @@
 ---
 id: analyze-channel-roi
 title: Analyze Channel ROI
-description: Compare ROI across all your marketing channels and reallocate budget
+description: "Pull sessions, conversions and revenue per channel from GA4, match them to Google and Meta ad spend, and rank every channel by CPA and ROAS."
 tags:
   - ga4
   - attribution

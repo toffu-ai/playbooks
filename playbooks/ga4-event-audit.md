@@ -1,7 +1,7 @@
 ---
 id: ga4-event-audit
 title: GA4 Conversion Event Audit
-description: List every tracked event in GA4 and spot the gaps in your conversion funnel
+description: "List every key event in GA4, map it to a funnel stage, and find the stages with no tracking at all plus the duplicate and misspelled event names."
 tags:
   - ga4
   - analytics

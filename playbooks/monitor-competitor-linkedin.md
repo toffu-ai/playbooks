@@ -1,7 +1,7 @@
 ---
 id: monitor-competitor-linkedin
 title: Monitor Competitor LinkedIn Activity
-description: Track what your competitors post on LinkedIn and spot content gaps you can win
+description: "Track every competitor company page post with its engagement, find the formats and topics that work for them, and the ones nobody is covering yet."
 tags:
   - linkedin
   - social media

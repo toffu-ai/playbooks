@@ -1,7 +1,7 @@
 ---
 id: linkedin-comment-monitoring
 title: LinkedIn Comment Monitor
-description: Track comments on your LinkedIn posts and draft replies to keep conversations going
+description: "Pull every new comment on your LinkedIn posts, sort questions and objections from spam, and get a thoughtful reply drafted for each one that matters."
 tags:
   - linkedin
   - social media

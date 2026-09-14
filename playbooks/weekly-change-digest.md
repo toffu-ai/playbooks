@@ -1,7 +1,7 @@
 ---
 id: weekly-change-digest
 title: Weekly Account Change Digest
-description: Weekly summary of every change made to your Google Ads account
+description: "Everything that changed in your Google Ads account in the last seven days, grouped by whether a person, a script or Google itself made the change."
 tags:
   - google ads
   - change history

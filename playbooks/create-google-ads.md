@@ -1,7 +1,7 @@
 ---
 id: create-google-ads
 title: Create Google Ads
-description: Turn competitor complaints on Reddit into Google Ads campaigns
+description: "Find Reddit threads where people complain about your competitor, turn those complaints into keywords, and build the Google Ads campaign around them."
 tags:
   - google ads
   - reddit

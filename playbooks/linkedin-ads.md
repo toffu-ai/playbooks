@@ -1,7 +1,7 @@
 ---
 id: linkedin-ads
 title: LinkedIn Ads
-description: Research competitor LinkedIn ads and create your own inspired by them
+description: "Find your top competitors, pull their best performing ads from the LinkedIn Ad Library, and generate your own campaign built on what already works."
 tags:
   - linkedin
   - advertising

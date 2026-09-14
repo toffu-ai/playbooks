@@ -1,7 +1,7 @@
 ---
 id: posthog-ab-test-report
 title: A/B Test Results Report
-description: Summarize all active PostHog experiments and declare winners based on conversion lift
+description: "Pull every active PostHog experiment with per-variant conversion rates, calculate the lift, and flag which tests are ready to ship, kill or keep running."
 tags:
   - analytics
   - posthog

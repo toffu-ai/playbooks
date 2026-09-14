@@ -1,7 +1,7 @@
 ---
 id: create-comparison-blog-post
 title: Create Comparison Blog Post
-description: Write a product comparison blog post with real reviews and SEO keywords
+description: "Write a two-product comparison post built on high-volume low-difficulty keywords, with the keywords placed naturally in the H2 structure."
 tags:
   - blog
   - SEO

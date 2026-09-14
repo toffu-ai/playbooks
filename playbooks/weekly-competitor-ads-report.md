@@ -1,7 +1,7 @@
 ---
 id: weekly-competitor-ads-monitor
 title: Weekly Competitor Google Ads Report
-description: Get a weekly report on what your competitors are running in Google Ads
+description: "Track competitor ads through the Google Ads Transparency Center every week, log copy and creative variations in Sheets, and get the trends by email."
 tags:
   - google-ads
   - competitor-analysis

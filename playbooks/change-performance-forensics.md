@@ -1,7 +1,7 @@
 ---
 id: change-performance-forensics
 title: Change-to-Performance Forensics
-description: Trace a performance drop back to the exact change that caused it
+description: "Performance dropped and nobody knows why. Pull every change from the three days before the shift and rank them by likely impact on the metric."
 tags:
   - google ads
   - change history

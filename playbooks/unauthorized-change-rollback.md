@@ -1,7 +1,7 @@
 ---
 id: unauthorized-change-rollback
-title: Unauthorized Change Detector and Rollback
-description: Catch unauthorized changes to your ads and roll them back
+title: "Unauthorized Change Rollback"
+description: "Check your Google Ads change history against your own approved-user and approved-method policy, and get rollback instructions for anything that breaks it."
 tags:
   - google ads
   - change history

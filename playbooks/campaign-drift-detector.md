@@ -1,7 +1,7 @@
 ---
 id: campaign-drift-detector
 title: Campaign Drift Detector
-description: Spot campaigns that have drifted from their intended settings over time
+description: "Compare every live campaign against your own standards for target CPA, budget caps, bid strategy and geo, and flag the ones that have drifted."
 tags:
   - google ads
   - change history

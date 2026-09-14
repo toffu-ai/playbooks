@@ -1,7 +1,7 @@
 ---
 id: meta-ads-optimization
 title: Meta Ads Optimization
-description: Analyze your Meta ads performance and apply data-driven improvements
+description: "Analyze your Meta Ads performance, generate optimization suggestions grounded in the account data, and apply only the ones you approve."
 tags:
   - meta ads
   - facebook ads

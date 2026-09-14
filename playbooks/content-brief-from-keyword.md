@@ -1,7 +1,7 @@
 ---
 id: content-brief-from-keyword
 title: SEO Content Brief Generator
-description: Build a detailed content brief for any keyword so writers know exactly what to cover
+description: "Take any target keyword, pull the H2 structure of the top ten ranking pages and the People Also Ask questions, and hand writers a full brief."
 tags:
   - content
   - seo

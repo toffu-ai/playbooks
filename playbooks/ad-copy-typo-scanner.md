@@ -1,7 +1,7 @@
 ---
 id: ad-copy-typo-scanner
 title: Ad Copy Typo Scanner
-description: Find spelling mistakes and grammar issues across all your ads
+description: "Scan every Google Ads headline and description for spelling and grammar mistakes, so the embarrassing ones never reach a live impression."
 tags:
   - google ads
   - ad copy

@@ -1,7 +1,7 @@
 ---
 id: website-design-best-practices
 title: Website Best Practices
-description: Audit your site for UX issues and get conversion-focused design tips
+description: "Find your high-bounce pages in GA4 and your low-CTR pages in Search Console, compare against competitor patterns, and get conversion-focused fixes."
 tags:
   - website design
   - ux/ui

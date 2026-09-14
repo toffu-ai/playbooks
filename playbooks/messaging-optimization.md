@@ -1,7 +1,7 @@
 ---
 id: messaging-optimization
 title: Messaging Optimization
-description: Improve your copy using real customer language and search data
+description: "Rebuild your copy on real customer language: Reddit pain points, GA4 behaviour and the Search Console terms people actually use to find you."
 tags:
   - messaging
   - copywriting

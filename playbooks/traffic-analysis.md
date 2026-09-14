@@ -1,7 +1,7 @@
 ---
 id: traffic-analysis
 title: Traffic Analysis
-description: Analyze your traffic trends, user behavior, and conversion rates
+description: "Pull Google Analytics and Search Console together into one report on traffic trends, user behaviour and conversion rates, delivered as a Google Doc."
 tags:
   - analytics
   - traffic

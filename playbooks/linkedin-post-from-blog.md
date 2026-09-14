@@ -1,7 +1,7 @@
 ---
 id: linkedin-post-from-blog
 title: Turn Blog Posts into LinkedIn Content
-description: Repurpose your latest blog posts into engaging LinkedIn posts automatically
+description: "Turn each new blog post into a LinkedIn post with a hook on line one, three to five punchy insights and a clear CTA, posted or saved as a draft."
 tags:
   - linkedin
   - social media
