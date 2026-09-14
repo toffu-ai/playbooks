@@ -1,7 +1,7 @@
 ---
 id: keyword-match-type-audit
 title: Keyword Match Type Audit
-description: Audit keyword match types to stop wasting budget and find new opportunities
+description: "Audit match types across every campaign to find the broad keywords bleeding budget on irrelevant searches and the exact matches capping your reach."
 tags:
   - google ads
   - keywords

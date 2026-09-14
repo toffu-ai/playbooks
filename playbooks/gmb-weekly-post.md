@@ -1,7 +1,7 @@
 ---
 id: gmb-weekly-post
 title: Weekly Google Business Post
-description: Keep your Google Business profile active with a fresh post every week
+description: "Keep your Google Business Profile active with a 150-300 word post every week, written from your latest updates and published straight to the profile."
 tags:
   - google business
   - social media

@@ -1,7 +1,7 @@
 ---
 id: publish-blog-to-cms
 title: Write and Publish a Blog Post
-description: Generate a full SEO-optimized blog post and publish it directly to your CMS
+description: "Research the top-ranking pages for your target keyword, write the full post with headers, internal links and meta description, and publish to your CMS."
 tags:
   - content
   - blog

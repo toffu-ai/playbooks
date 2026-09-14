@@ -1,7 +1,7 @@
 ---
 id: analyze-top-performing-queries
 title: Analyze Top Performing Queries
-description: Find your best search queries by clicks, impressions, and engagement
+description: "Pull your Search Console queries by clicks, impressions and CTR, and separate the ones that already convert from the ones with untapped volume."
 tags:
   - seo
   - performance

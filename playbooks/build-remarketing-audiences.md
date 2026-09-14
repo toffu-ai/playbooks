@@ -1,7 +1,7 @@
 ---
 id: build-remarketing-audiences
 title: Build Remarketing Audiences from GA4
-description: Build retargeting audiences from visitors who almost converted
+description: "Build GA4 audiences from the visitors who nearly converted: pricing page bounces, engaged blog readers, and repeat sessions with no purchase."
 tags:
   - ga4
   - audiences

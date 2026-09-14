@@ -1,7 +1,7 @@
 ---
 id: detect-conversion-drops
 title: Detect Conversion Drops
-description: Get alerted when conversions drop and find out why
+description: "Compare the last seven days of GA4 key events against the seven before. If any drops more than 20%, get a Slack alert broken down by channel and page."
 tags:
   - ga4
   - monitoring

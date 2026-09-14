@@ -1,7 +1,7 @@
 ---
 id: blog-to-signup-tracking
 title: Track Blog → Signup Conversions
-description: Find which blog posts drive signups and how to improve the rest
+description: "Match GA4 landing page conversions to Search Console queries to find which blog posts drive signups, and what to fix on the ones that do not."
 tags:
   - ga4
   - content

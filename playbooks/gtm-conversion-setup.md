@@ -1,7 +1,7 @@
 ---
 id: gtm-conversion-setup
 title: Set Up GTM Conversion Tracking
-description: Add conversion tracking tags to GTM for every key event in your funnel
+description: "Find which of your signup, purchase, demo and trial events are missing from GTM, then create the tags and triggers and wire them to GA4 key events."
 tags:
   - google tag manager
   - conversions

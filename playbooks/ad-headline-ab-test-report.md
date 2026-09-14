@@ -1,7 +1,7 @@
 ---
 id: ad-headline-ab-test-report
 title: Ad Headline A/B Test Report
-description: See which ad headlines are winning and which should be retired
+description: "Compare every headline and description head to head inside each ad group, see which ones win on CTR and conversions, and retire the rest."
 tags:
   - google ads
   - ad copy

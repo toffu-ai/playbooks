@@ -1,7 +1,7 @@
 ---
 id: gtm-tag-audit
 title: GTM Tag Health Audit
-description: Find paused, broken, or redundant tags in Google Tag Manager before they cost you data
+description: "Find the paused tags, the tags with no trigger, the ones firing on every page, and the duplicates, before they cost you another month of clean data."
 tags:
   - analytics
   - google tag manager

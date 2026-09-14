@@ -1,7 +1,7 @@
 ---
 id: reddit-brand-monitoring
 title: Reddit Brand Mention Monitor
-description: Catch every Reddit mention of your brand or competitors before they go viral
+description: "Catch every Reddit mention of your brand, products and competitors from the last 72 hours, classified by sentiment, with the angry ones flagged first."
 tags:
   - reddit
   - social media

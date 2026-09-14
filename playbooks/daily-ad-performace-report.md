@@ -1,7 +1,7 @@
 ---
 id: daily-ad-performace-report
 title: Daily Ad Performance Report
-description: Get a daily email with ad spend, conversions, and key actions needed
+description: "A daily email with yesterday's spend split across Google and Meta, total conversions, blended CPA, and the specific actions that need taking today."
 tags:
   - ad performance
   - reporting

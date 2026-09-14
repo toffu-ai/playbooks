@@ -1,7 +1,7 @@
 ---
 id: landing-page-ad-mismatch
 title: Landing Page and Ad Mismatch Detector
-description: Find ads that promise one thing but send visitors to the wrong page
+description: "Visit the landing page behind every live ad and flag the ones where the headline promises something the page does not deliver, killing your conversions."
 tags:
   - google ads
   - landing pages

@@ -1,7 +1,7 @@
 ---
 id: create-content-gap-analysis
 title: Create Content Gap Analysis
-description: Find topics your audience searches for that you haven't covered yet
+description: "Compare what you have published against the queries you already get impressions for, and get the list of topics your audience searches and you skip."
 tags:
   - seo
   - content

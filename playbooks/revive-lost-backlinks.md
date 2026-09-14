@@ -1,7 +1,7 @@
 ---
 id: revive-lost-backlinks
 title: Revive Lost Backlinks
-description: Find backlinks you lost and build a plan to get them back
+description: "Pull the Links report in Search Console, find the domains that used to link to you and no longer do, and build the plan to win each one back."
 tags:
   - seo
   - backlinks

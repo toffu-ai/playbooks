@@ -1,7 +1,7 @@
 ---
 id: reddit-comment-outreach
 title: Reddit Comment Outreach
-description: Find Reddit threads where you can add value and draft replies that build credibility
+description: "Find active Reddit threads where your product is genuinely relevant, and get a helpful non-promotional reply drafted for each one before you post."
 tags:
   - reddit
   - outreach

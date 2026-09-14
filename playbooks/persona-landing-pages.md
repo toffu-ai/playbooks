@@ -1,7 +1,7 @@
 ---
 id: persona-landing-pages
 title: Persona Landing Pages
-description: Create landing pages tailored to each of your buyer personas
+description: "Build personas from your real GA4 and Search Console behaviour data, then write a landing page per persona addressing that persona's pain points."
 tags:
   - landing pages
   - conversion

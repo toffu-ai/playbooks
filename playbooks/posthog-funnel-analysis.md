@@ -1,7 +1,7 @@
 ---
 id: posthog-funnel-analysis
 title: PostHog Signup Funnel Analysis
-description: Find exactly where users drop off in your signup flow using PostHog event data
+description: "Pull 30 days of funnel conversion per step from PostHog, rank the steps by drop-off, and break the worst one down by source, plan and device."
 tags:
   - analytics
   - conversions

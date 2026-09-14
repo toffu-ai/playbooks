@@ -1,7 +1,7 @@
 ---
 id: retention-cohort-analysis
 title: Retention Cohort Analysis
-description: See which channels bring customers that actually stick around
+description: "Build GA4 signup cohorts, track retention week over week, and find which acquisition channels bring the customers who are still here in month three."
 tags:
   - ga4
   - retention

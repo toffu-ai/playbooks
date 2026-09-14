@@ -1,7 +1,7 @@
 ---
 id: competitor-twitter-analysis
 title: Twitter Analysis
-description: Track your competitors' top tweets and steal their best content patterns
+description: "Track your competitors' highest-engagement tweets, log the patterns in a Google Sheet, and turn what works for them into your own calendar."
 tags:
   - twitter
   - social media

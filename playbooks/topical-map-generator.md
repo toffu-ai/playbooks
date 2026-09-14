@@ -1,7 +1,7 @@
 ---
 id: topical-map-generator
 title: Topical Authority Map
-description: Map your site's content coverage to find topic clusters you're missing for SEO
+description: "Group every published URL into topic clusters, find the ones with only one or two pages, and rank them by the Search Console impressions on offer."
 tags:
   - seo
   - content strategy

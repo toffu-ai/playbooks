@@ -1,7 +1,7 @@
 ---
 id: identify-content-cannibalization
 title: Identify Content Cannibalization
-description: Find pages competing against each other for the same keywords
+description: "Use Search Console to find the pages competing against each other for the same query, then get the consolidation and internal linking plan to fix it."
 tags:
   - seo
   - content

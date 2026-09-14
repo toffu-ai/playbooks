@@ -1,7 +1,7 @@
 ---
 id: newsletter-from-blog-posts
 title: Newsletter from Recent Blog Posts
-description: Turn your latest blog posts into a polished newsletter and send it via Mailchimp
+description: "Turn every blog post published since the last send into a finished newsletter: themed intro, a teaser per post, and your HTML template filled in."
 tags:
   - content
   - email

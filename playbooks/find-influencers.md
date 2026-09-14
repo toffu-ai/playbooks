@@ -1,7 +1,7 @@
 ---
 id: find-influencers
 title: Find Influencers
-description: Find relevant influencers and send them personalized outreach emails
+description: "Find industry accounts on Twitter and LinkedIn with real engagement, check their audience fits yours, and draft personalized outreach for each."
 tags:
   - influencer marketing
   - outreach

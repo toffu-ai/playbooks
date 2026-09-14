@@ -1,7 +1,7 @@
 ---
 id: video-script-from-blog
 title: Blog Post to Video Script
-description: Turn any blog post into a punchy short-form video script ready to record
+description: "Turn any blog post into a 60-90 second script: strong hook, three punchy sections, clear CTA, plus scene notes and on-screen text for each section."
 tags:
   - content
   - video

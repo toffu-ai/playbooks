@@ -1,7 +1,7 @@
 ---
 id: hijack-trends
 title: Trend Hijacking
-description: Spot trending topics and create social posts that ride the wave
+description: "Catch trending topics on Reddit, Twitter and Google News, match them to your existing brand voice, and get platform-specific posts ready to publish."
 tags:
   - trends
   - social media

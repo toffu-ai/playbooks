@@ -1,7 +1,7 @@
 ---
 id: bid-strategy-change-tracker
 title: Bid Strategy Change Tracker
-description: Track every bid strategy change and measure if it helped or hurt
+description: "Every bid strategy change on every campaign, with the before and after values and the performance data that says whether it helped or hurt."
 tags:
   - google ads
   - change history

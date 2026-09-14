@@ -1,7 +1,7 @@
 ---
 id: weak-ad-copy-finder
 title: Weak Ad Copy Finder
-description: Find ads with weak copy dragging down your CTR and get better options
+description: "Find the ads with below-average CTR inside their own ad group, diagnose what is weak about the copy, and get stronger headlines to test against them."
 tags:
   - google ads
   - ad copy

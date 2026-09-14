@@ -1,7 +1,7 @@
 ---
 id: landing-page-cro-audit
 title: Landing Page CRO Audit
-description: Score any landing page against proven CRO criteria and get a prioritized fix list
+description: "Score any landing page on headline clarity, value prop, social proof, CTA placement and form friction, then rank the fixes by conversion impact."
 tags:
   - cro
   - landing pages

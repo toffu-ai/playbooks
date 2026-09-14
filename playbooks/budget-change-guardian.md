@@ -1,7 +1,7 @@
 ---
 id: budget-change-guardian
 title: Budget Change Guardian
-description: Get alerts whenever someone changes your ad budgets unexpectedly
+description: "Watch your Google Ads change history for budget edits in the last 24 hours and get told who changed what, from which amount to which amount."
 tags:
   - google ads
   - change history
